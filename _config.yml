@@ -10,7 +10,7 @@ timezone: America/Los_Angeles
 github_username:  mauroLaine
 encoding: utf-8
 url:              https://www.mauriciolaine.io/accessibleCurrency/
-baseurl:          ''
+baseurl:          '/accessibleCurrency'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
