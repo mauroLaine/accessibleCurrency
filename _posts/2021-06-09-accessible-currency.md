@@ -14,6 +14,12 @@ On the other hand, there are mobile apps available in Google Play that are detec
 
 ### Related Work
 
+This project was based principally on references related to BLV people using paper money and documentation of BLV people and smartphone experiences. 
+
+[How Blind People Identify Paper Money](https://blindcoincollector.com/2019/02/18/how-blind-people-identify-paper-money/) is an excellent reference to hear experiences from BLV people. In this source, the team learned the behavior expected from the final user when the app would be used.
+
+Furthermore, [Accessibility in Smartphone Applications: What Do We Learn from Reviews?](https://www.researchgate.net/profile/Asm-Anam-2/publication/262399684_Accessibility_in_smartphone_applications_What_do_we_learn_from_reviews/links/55ef112508ae0af8ee1b0a46/Accessibility-in-smartphone-applications-What-do-we-learn-from-reviews.pdf) was very useful since it provided a more extended context of the usage of smartphones by BLV people.
+
 ### Solution
 
 In order to find the best approach for currency recognition, the team experimented with several potential solutions. The first approach was using text recognition to identify the bills and coins. The results from this experiment were different than the ones expected. For this case, the ML read random text on the bills, and for the coins, it did not recognize it in many cases since this text was too small for the phone's camera.
