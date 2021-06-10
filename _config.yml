@@ -6,9 +6,11 @@ highlighter:      rouge
 title:            Accessible Currency
 tagline:          'Android app'
 description:      'An Android app project.'
-timezone: America/Los_Angeles
+timezone:         America/Los_Angeles
+encoding:         utf-8
 github_username:  mauroLaine
-encoding: utf-8
+repo:             https://github.com/mauroLaine/CurrencyRecognition/
+branch:          master
 url:              https://www.mauriciolaine.io/accessibleCurrency/
 baseurl:          '/accessibleCurrency'
                   # the optional subpath of your site, e.g. "/blog"
