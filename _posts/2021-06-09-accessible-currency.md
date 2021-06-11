@@ -16,9 +16,9 @@ On the other hand, there are mobile apps available in Google Play that are detec
 
 This project was based principally on references related to BLV people using paper money and documentation of BLV people and smartphone experiences. 
 
-[How Blind People Identify Paper Money](https://blindcoincollector.com/2019/02/18/how-blind-people-identify-paper-money/) is an excellent reference to hear experiences from BLV people. In this source, the team learned the behavior expected from the final user when the app would be used.
+<a href="https://blindcoincollector.com/2019/02/18/how-blind-people-identify-paper-money/" style="color: #0085b6;color: hsl(196.2, 100%, 35.7%)">How Blind People Identify Paper Money</a> is an excellent reference to hear experiences from BLV people. In this source, the team learned the behavior expected from the final user when the app would be used.
 
-Furthermore, [Accessibility in Smartphone Applications: What Do We Learn from Reviews?](https://www.researchgate.net/profile/Asm-Anam-2/publication/262399684_Accessibility_in_smartphone_applications_What_do_we_learn_from_reviews/links/55ef112508ae0af8ee1b0a46/Accessibility-in-smartphone-applications-What-do-we-learn-from-reviews.pdf) was very useful since it provided a more extended context of the usage of smartphones by BLV people.
+<a href="https://www.researchgate.net/profile/Asm-Anam-2/publication/262399684_Accessibility_in_smartphone_applications_What_do_we_learn_from_reviews/links/55ef112508ae0af8ee1b0a46/Accessibility-in-smartphone-applications-What-do-we-learn-from-reviews.pdf" style="color: #0085b6;color: hsl(196.2, 100%, 35.7%)">Accessibility in Smartphone Applications: What Do We Learn from Reviews?</a> was very useful since it provided a more extended context of the usage of smartphones by BLV people.
 
 ### Solution
 
