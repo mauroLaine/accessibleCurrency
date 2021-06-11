@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Demo
+title: Video Demo
 ---
 
 The following video showing the different aspects of Accessible Currency app.
