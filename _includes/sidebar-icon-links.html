@@ -1,11 +1,11 @@
 <nav id="sidebar-icon-links">
   {% if site.repo %}
-  <a id="github-link" class="icon" aria-label="Visit the Github Project" href="{{ site.repo }}">
-    {% include svg/github.svg %}
+  <a id="github-link" class="icon" aria-label="Visit Github Project" href="{{ site.repo }}">
+    {% include svg/github.svg alt="Visit the Github Project" %}
   </a>
-  <a id="github-download-link" class="icon" aria-label="Download the Github Project"
+  <a id="github-download-link" class="icon" aria-label="Download Github Project"
     href="{{ site.repo }}/archive/refs/heads/{{ site.branch }}.zip">
-    {% include svg/download.svg %}
+    {% include svg/download.svg alt="Download the Github Project" %}
   </a>
   {% endif %}
 
