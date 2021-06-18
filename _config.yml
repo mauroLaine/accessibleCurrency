@@ -11,8 +11,8 @@ encoding:         utf-8
 github_username:  mauroLaine
 repo:             https://github.com/mauroLaine/CurrencyRecognition/
 branch:          master
-url:              https://www.mauriciolaine.io/accessibleCurrency/
-baseurl:          '/accessibleCurrency'
+url:              https://maurolaine.github.io/accessibleCurrency/
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
