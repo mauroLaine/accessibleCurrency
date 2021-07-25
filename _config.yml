@@ -10,6 +10,8 @@ timezone:         America/Los_Angeles
 encoding:         utf-8
 github_username:  mauroLaine
 repo:             https://github.com/mauroLaine/CurrencyRecognition/
+mlaine:           https://github.com/mauroLaine/
+osartori:         https://github.com/mauriciosartori/
 branch:          master
 url:              https://maurolaine.github.io/accessibleCurrency/
 baseurl:          ''

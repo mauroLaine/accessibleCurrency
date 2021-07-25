@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Members
-published: false
 ---
 
-
+{% include members.html %}
