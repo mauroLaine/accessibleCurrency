@@ -4,10 +4,4 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+  This project aims to provide a tool for BLV people to improve their interaction with currency via a mobile app in multiple languages. Blind and vision-impaired people can use this app as a tool to identify and manage the amount of cash they have in their pocket.
